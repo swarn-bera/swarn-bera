@@ -7,11 +7,12 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
+
 <a href="https://chartreuse0.netlify.app/">
   <h3 align="center">
     Chartreuse!
   </h3>
-
+</a>
 
 <br/>
 
